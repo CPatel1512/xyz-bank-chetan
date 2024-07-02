@@ -1,0 +1,8 @@
+2024-07-01 00:07:822 INFO  ManageBrowser :32 - Chrome Browser Launch.....
+2024-07-01 00:07:105 INFO  ManageBrowser :32 - Chrome Browser Launch.....
+2024-07-01 00:07:404 INFO  BankManagerLoginPage :19 - click on login [[ChromeDriver: chrome on windows (7a34861844c1d622e1d1e42553accf83)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2024-07-01 00:07:992 INFO  AddCustomerPage :19 - click on add customer[[ChromeDriver: chrome on windows (7a34861844c1d622e1d1e42553accf83)] -> xpath: //body/div[1]/div[1]/div[2]/div[1]/div[1]/button[1]]
+2024-07-01 00:07:588 INFO  AddCustomerPage :29 - click on add name[[ChromeDriver: chrome on windows (7a34861844c1d622e1d1e42553accf83)] -> xpath: //body/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/input[1]]
+2024-07-01 00:07:754 INFO  AddCustomerPage :39 - click on add name[[ChromeDriver: chrome on windows (7a34861844c1d622e1d1e42553accf83)] -> xpath: //body/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[2]/input[1]]
+2024-07-01 00:07:914 INFO  AddCustomerPage :49 - click on add postcode[[ChromeDriver: chrome on windows (7a34861844c1d622e1d1e42553accf83)] -> xpath: //body/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/input[1]]
+2024-07-01 00:07:39 INFO  AddCustomerPage :59 - click on add button [[ChromeDriver: chrome on windows (7a34861844c1d622e1d1e42553accf83)] -> xpath: //body/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/form[1]/button[1]]
